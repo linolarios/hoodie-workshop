@@ -2,11 +2,11 @@
   "name": "shopping-list",
   "version": "1.0.0",
   "description":
-    "a progressive web app that you can use to list items to buy and also store the list and total item cost",
+    "workshop",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Peter Mbanugo",
+  "author": "ns",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
